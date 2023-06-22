@@ -1,0 +1,39 @@
+.h1{
+    text-align: center;
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+}
+.one{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.h{
+    padding: 10px;
+    width : 300px;
+    margin-bottom: 10px;
+    font-weight:500;
+    font-family: 'Montserrat', sans-serif;
+}
+.two{
+    font-size: 12px;
+    position: relative;
+    bottom: 48px;
+    left: 130px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.three{
+    border-radius: 40px;
+    padding: 15px;
+    width: 220px;
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.new{
+    font-size: 12px;
+    font-weight: 500;
+}
